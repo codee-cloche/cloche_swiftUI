@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		94C0D5FF286B539C0013C9D9 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C0D5FE286B539B0013C9D9 /* SearchBar.swift */; };
 		94E499B5286B442300BA5F8E /* ClocheApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E499B4286B442300BA5F8E /* ClocheApp.swift */; };
 		94E499B7286B442300BA5F8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E499B6286B442300BA5F8E /* ContentView.swift */; };
 		94E499B9286B442800BA5F8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94E499B8286B442800BA5F8E /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		94C0D5FE286B539B0013C9D9 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		94E499B1286B442300BA5F8E /* Cloche.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cloche.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94E499B4286B442300BA5F8E /* ClocheApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClocheApp.swift; sourceTree = "<group>"; };
 		94E499B6286B442300BA5F8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				94E499B6286B442300BA5F8E /* ContentView.swift */,
 				94E499B8286B442800BA5F8E /* Assets.xcassets */,
 				94E499BA286B442800BA5F8E /* Preview Content */,
+				94C0D5FE286B539B0013C9D9 /* SearchBar.swift */,
 			);
 			path = Cloche;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				94E499B7286B442300BA5F8E /* ContentView.swift in Sources */,
 				94E499B5286B442300BA5F8E /* ClocheApp.swift in Sources */,
+				94C0D5FF286B539C0013C9D9 /* SearchBar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
