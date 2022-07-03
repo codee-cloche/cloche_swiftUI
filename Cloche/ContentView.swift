@@ -138,10 +138,7 @@ struct First: View{
 
 struct Second: View{
     var body: some View{
-        ZStack{
-        
-            Text("second")
-        }
+        Looks()
     }
 }
     
@@ -238,3 +235,9 @@ var cData = [
     Clothes(title: "Levis Jeans", image: "3", cardColor: "Color3", price: "$3.99", category: "하의"),
     Clothes(title: "Black Boots", image: "4", cardColor: "Color1", price: "$2.99", category: "신발"),
 ]
+
+struct Previews_Looks_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+}
+}
