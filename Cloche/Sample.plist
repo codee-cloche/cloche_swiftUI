@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Item 0</key>
+	<dict>
+		<key>sectionType</key>
+		<string>outwear</string>
+		<key>sectionName</key>
+		<string>아우터</string>
+		<key>sampleItem</key>
+		<array>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-07-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>3</integer>
+				<key>brand</key>
+				<string>Paloma Wool</string>
+				<key>imageName</key>
+				<string>outwear0</string>
+				<key>description</key>
+				<string>Bailen in Pink</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-04-13T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>6</integer>
+				<key>brand</key>
+				<string>Cosmoss</string>
+				<key>imageName</key>
+				<string>outwear1</string>
+				<key>description</key>
+				<string>Nylon Windrunner Jacket in White</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-12-13T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>1</integer>
+				<key>brand</key>
+				<string>Sunflower</string>
+				<key>imageName</key>
+				<string>outwear1</string>
+				<key>description</key>
+				<string>Prince Jacket in Grey</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-10-13T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>10</integer>
+				<key>brand</key>
+				<string>Sunflower</string>
+				<key>imageName</key>
+				<string>outwear3</string>
+				<key>description</key>
+				<string>90s Bomber in Black</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-05-13T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>1</integer>
+				<key>brand</key>
+				<string>Birrot</string>
+				<key>imageName</key>
+				<string>outwear4</string>
+				<key>description</key>
+				<string>Point Collar Cardigan in Pink</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Item 1</key>
+	<dict>
+		<key>sectionType</key>
+		<string>top</string>
+		<key>sectionName</key>
+		<string>상의</string>
+		<key>sampleItem</key>
+		<array>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-10-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>Paloma Wool</string>
+				<key>imageName</key>
+				<string>top0</string>
+				<key>description</key>
+				<string>Lab in Tan</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-07-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>7</integer>
+				<key>brand</key>
+				<string>Birrot</string>
+				<key>imageName</key>
+				<string>top1</string>
+				<key>description</key>
+				<string>Recycled Cotton T-Shirt</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-04-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>1</integer>
+				<key>brand</key>
+				<string>Ganni</string>
+				<key>imageName</key>
+				<string>top2</string>
+				<key>description</key>
+				<string>Stripe Ruffle Top</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-07-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>Eckhaus Latta</string>
+				<key>imageName</key>
+				<string>top3</string>
+				<key>description</key>
+				<string>Lapped Baby Tee</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-06-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>6</integer>
+				<key>brand</key>
+				<string>Ganni</string>
+				<key>imageName</key>
+				<string>top4</string>
+				<key>description</key>
+				<string>Software Sleeveless</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Item 2</key>
+	<dict>
+		<key>sectionType</key>
+		<string>bottom</string>
+		<key>sectionName</key>
+		<string>하의</string>
+		<key>sampleItem</key>
+		<array>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-11-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>11</integer>
+				<key>brand</key>
+				<string>Studio Nicholson</string>
+				<key>imageName</key>
+				<string>bottom0</string>
+				<key>description</key>
+				<string>Dordoni</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-07-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>1</integer>
+				<key>brand</key>
+				<string>Ganni</string>
+				<key>imageName</key>
+				<string>bottom1</string>
+				<key>description</key>
+				<string>Denim Hotpant Shorts</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-01-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>Birrot</string>
+				<key>imageName</key>
+				<string>bottom2</string>
+				<key>description</key>
+				<string>Giwa Trouser</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-05-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>10</integer>
+				<key>brand</key>
+				<string>Teak</string>
+				<key>imageName</key>
+				<string>bottom3</string>
+				<key>description</key>
+				<string>Sky Blue Silk Long Skirt</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-06-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>9</integer>
+				<key>brand</key>
+				<string>Studio Nicholson</string>
+				<key>imageName</key>
+				<string>bottom4</string>
+				<key>description</key>
+				<string>Filkin</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Item 3</key>
+	<dict>
+		<key>sectionType</key>
+		<string>shoes</string>
+		<key>sectionName</key>
+		<string>신발</string>
+		<key>sampleItem</key>
+		<array>
+			<dict>
+				<key>dateAdded</key>
+				<date>2020-01-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>9</integer>
+				<key>brand</key>
+				<string>Drogheria Crivellini</string>
+				<key>imageName</key>
+				<string>shoes0</string>
+				<key>description</key>
+				<string>Silky Mary Jane</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-02-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>Salamon</string>
+				<key>imageName</key>
+				<string>shoes1</string>
+				<key>description</key>
+				<string>XA Pro 3D</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-06-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>3</integer>
+				<key>brand</key>
+				<string>Ganni</string>
+				<key>imageName</key>
+				<string>shoes2</string>
+				<key>description</key>
+				<string>Recycled Rubber City Mules</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-07-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>By Far</string>
+				<key>imageName</key>
+				<string>shoes3</string>
+				<key>description</key>
+				<string>Tanya</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-08-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>13</integer>
+				<key>brand</key>
+				<string>Hereu</string>
+				<key>imageName</key>
+				<string>shoes4</string>
+				<key>description</key>
+				<string>Pesca</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Item 4</key>
+	<dict>
+		<key>sectionType</key>
+		<string>accessories</string>
+		<key>sectionName</key>
+		<string>악세서리</string>
+		<key>sampleItem </key>
+		<array>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-07-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>Palmoa Wool</string>
+				<key>imageName</key>
+				<string>acc0</string>
+				<key>description</key>
+				<string>Bovista</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-02-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>3</integer>
+				<key>brand</key>
+				<string>Ganni</string>
+				<key>imageName</key>
+				<string>acc1</string>
+				<key>description</key>
+				<string>Bubble Scrunchie</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-01-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>0</integer>
+				<key>brand</key>
+				<string>Cosmoss</string>
+				<key>imageName</key>
+				<string>acc2</string>
+				<key>description</key>
+				<string>Hair Clip</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-03-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>9</integer>
+				<key>brand</key>
+				<string>Sophie Buhai</string>
+				<key>imageName</key>
+				<string>acc3</string>
+				<key>description</key>
+				<string>Mollusc Clip</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2020-08-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>19</integer>
+				<key>brand</key>
+				<string>Sunflower</string>
+				<key>imageName</key>
+				<string>acc4</string>
+				<key>description</key>
+				<string>Logo Cap in Sand</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Item 5</key>
+	<dict>
+		<key>sectionType</key>
+		<string>bags</string>
+		<key>sectionName</key>
+		<string>가방</string>
+		<key>sampleItem </key>
+		<array>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-05-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>12</integer>
+				<key>brand</key>
+				<string>Nothing Everything</string>
+				<key>imageName</key>
+				<string>bag0</string>
+				<key>description</key>
+				<string>Round Bag in Pink</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-01-12T08:29:10Z</date>
+				<key>favorite</key>
+				<false/>
+				<key>timesWorn</key>
+				<integer>1</integer>
+				<key>brand</key>
+				<string>Giu Giu</string>
+				<key>imageName</key>
+				<string>bag1</string>
+				<key>description</key>
+				<string>Nonna Sport Sac</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-01-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>0</integer>
+				<key>brand</key>
+				<string>Amomento</string>
+				<key>imageName</key>
+				<string>bag2</string>
+				<key>description</key>
+				<string>Silver Foil Shoulder Bag</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2022-01-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>21</integer>
+				<key>brand</key>
+				<string>Studio Nicholson</string>
+				<key>imageName</key>
+				<string>bag3</string>
+				<key>description</key>
+				<string>Small Tote</string>
+			</dict>
+			<dict>
+				<key>dateAdded</key>
+				<date>2021-08-12T08:29:10Z</date>
+				<key>favorite</key>
+				<true/>
+				<key>timesWorn</key>
+				<integer>2</integer>
+				<key>brand</key>
+				<string>Ganni</string>
+				<key>imageName</key>
+				<string>bag4</string>
+				<key>description</key>
+				<string>Recycled Fabric Bag in Pink</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
