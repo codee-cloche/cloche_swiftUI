@@ -10,6 +10,7 @@
 		65B2F51B2871EBC50060F62F /* Looks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B2F51A2871EBC40060F62F /* Looks.swift */; };
 		65B2F51F2871EE940060F62F /* KeywordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B2F51E2871EE940060F62F /* KeywordButton.swift */; };
 		65B2F5212871FBA60060F62F /* Outfits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65B2F5202871FBA60060F62F /* Outfits.swift */; };
+		65B56E8A287E399200CC5F8B /* Sample.plist in Resources */ = {isa = PBXBuildFile; fileRef = 65B56E89287E399200CC5F8B /* Sample.plist */; };
 		941BCCCB287C099D00480530 /* Closet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941BCCCA287C099D00480530 /* Closet.swift */; };
 		94C0D5FF286B539C0013C9D9 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94C0D5FE286B539B0013C9D9 /* SearchBar.swift */; };
 		94E499B5286B442300BA5F8E /* ClocheApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94E499B4286B442300BA5F8E /* ClocheApp.swift */; };
@@ -22,6 +23,7 @@
 		65B2F51A2871EBC40060F62F /* Looks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Looks.swift; sourceTree = "<group>"; };
 		65B2F51E2871EE940060F62F /* KeywordButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeywordButton.swift; sourceTree = "<group>"; };
 		65B2F5202871FBA60060F62F /* Outfits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Outfits.swift; sourceTree = "<group>"; };
+		65B56E89287E399200CC5F8B /* Sample.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Sample.plist; sourceTree = "<group>"; };
 		941BCCCA287C099D00480530 /* Closet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Closet.swift; sourceTree = "<group>"; };
 		94C0D5FE286B539B0013C9D9 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		94E499B1286B442300BA5F8E /* Cloche.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cloche.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,6 +66,7 @@
 				94E499B4286B442300BA5F8E /* ClocheApp.swift */,
 				94E499B6286B442300BA5F8E /* ContentView.swift */,
 				941BCCCA287C099D00480530 /* Closet.swift */,
+				65B56E89287E399200CC5F8B /* Sample.plist */,
 				65B2F51A2871EBC40060F62F /* Looks.swift */,
 				94E499B8286B442800BA5F8E /* Assets.xcassets */,
 				94E499BA286B442800BA5F8E /* Preview Content */,
@@ -140,6 +143,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65B56E8A287E399200CC5F8B /* Sample.plist in Resources */,
 				94E499BC286B442800BA5F8E /* Preview Assets.xcassets in Resources */,
 				94E499B9286B442800BA5F8E /* Assets.xcassets in Resources */,
 			);
